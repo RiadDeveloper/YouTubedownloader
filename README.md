@@ -2,9 +2,8 @@
 
 **🌎 Released on :** 25 November 2023
 
-**🌎 Updated on :** 25 November 2023
-
-**⚙️ Latest Version :** 1.0
+**🌎 Updated on :** 2 February 2024
+**⚙️ Latest Version :** 2.0
 
 > ### 📄 All Blocks
 
@@ -48,9 +47,9 @@
 
 >**🌎 Released on :** 25 November 2023
 >
->**🌎 Updated on :** 25 November 2023
+>**🌎 Updated on :** 2 February 2024
 > 
-> ****⚙️ Latest Version :** 1.0**
+> ****⚙️ Latest Version :** 2.0**
 > 
 >[com.r2store.youtubedownloader.aix](http://r2store.000.pe/)
 >
